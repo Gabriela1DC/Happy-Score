@@ -1,4 +1,4 @@
-# Happy-Score
+# Happy-Score :smiley: :bar_chart:
 
 Aplicação do algoritmo de aprendizagem não supervisionada K-Means a fim de agrupar os países existentes no dataset utilizando as váriaveis de desigualdade, renda
 e índice de felicidade disponíveis.
